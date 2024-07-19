@@ -1,5 +1,9 @@
-import subprocess
+#
+# Copyright 2024 Canonical, Ltd.
+#
+
 import os
+import subprocess
 
 
 def test_sanity():
